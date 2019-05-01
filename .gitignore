@@ -1,0 +1,10 @@
+/dist/XC16_24FJ256GA110/production/PIC24Payload.X.production.map
+/dist/XC16_24FJ256GA110/production/PIC24Payload.X.production.hex
+/dist/XC16_24FJ256GA110/production/PIC24Payload.X.production.elf
+/dist/XC16_24FJ256GA110/production/memoryfile.xml
+/build/XC16_24FJ256GA110/production/configuration_bits.o.d
+/build/XC16_24FJ256GA110/production/system.o.d
+/build/XC16_24FJ256GA110/production/user.o.d
+/build/XC16_24FJ256GA110/production/traps.o.d
+/build/XC16_24FJ256GA110/production/interrupts.o.d
+/build/XC16_24FJ256GA110/production/main.o.d
