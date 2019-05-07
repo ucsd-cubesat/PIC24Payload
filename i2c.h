@@ -12,7 +12,15 @@
 extern "C" {
 #endif
 
+/*
+ * Configures I2C with the proper bitrate
+ */
+void i2c_init();
 
+/*
+ * Closes the I2C session.
+ */
+void i2c_close();
 
 #ifdef	__cplusplus
 }
